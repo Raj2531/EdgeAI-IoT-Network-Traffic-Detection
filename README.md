@@ -36,10 +36,6 @@
 
 > ⚙️ This system consists of 5 layers: **Capture**, **Feature Extraction**, **Inference Engine**, **Alert System**, and optional **Dashboard**.
 
-![Architecture Diagram](https://i.imgur.com/q98E4kT.png)
-
-*Use your own diagram or request one and I can generate it for you!*
-
 ---
 
 ## 🛠️ Features
@@ -130,12 +126,12 @@ curl -X POST http://localhost:5000/predict \
 
 ## 🧑‍💻 Author
 
-**Your Name**  
-📧 yourname@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourprofile)
+**Aruna Raj**  
+📧 rajaru3112@gmail.com  
+🔗  [LinkedIn](https://www.linkedin.com/in/aruna-raj-6b64a727b/)
 
 ---
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
